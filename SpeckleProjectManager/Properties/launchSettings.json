@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SpeckleProjectManager": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Rhino 8\\System\\Rhino.exe",
+      "nativeDebugging": true
+    }
+  }
+}
